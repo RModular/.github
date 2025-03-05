@@ -1,4 +1,4 @@
-# RModular – Modular Services for Roblox Development
+# RModular
 
 Welcome to **RModular**! We are a development group dedicated to providing **modular services** and tools designed to streamline **Roblox game development**. Our goal is to create **efficient, scalable, and developer-friendly solutions** that empower developers to focus on their game design without worrying about core systems.
 
