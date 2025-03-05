@@ -33,4 +33,3 @@ Thank you for your contribution! Please provide the following information before
 ## Additional Notes
 
 - **Any additional information or comments for the reviewers.**
-- 
