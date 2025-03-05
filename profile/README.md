@@ -4,7 +4,7 @@ Welcome to **RModular**! We are a development group dedicated to providing **mod
 
 ---
 
-## 🌟 Our Mission
+## Our Mission
 
 At **RModular**, we aim to:
 - Simplify game development with **plug-and-play** services.
@@ -13,7 +13,7 @@ At **RModular**, we aim to:
 
 ---
 
-## 🌍 Join Us
+## Join Us
 
 We invite you to explore our **open-source projects** and contribute to the growth of the community!
 
