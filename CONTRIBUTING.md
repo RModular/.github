@@ -49,7 +49,7 @@ If you find any bugs or have suggestions for improvements, please open an **issu
 
 ## Additional Notes
 
-- If you’re unsure about anything or have questions, feel free to ask in the [Discord Server](#) or open an issue in the GitHub repository.
+- If you’re unsure about anything or have questions, feel free to ask in the [Discord Server](https://discord.gg/6kdStGJ6KS) or open an issue in the GitHub repository.
 - We encourage you to share your ideas and improvements. Together, we can create better tools for the Roblox development community!
 
 ---
